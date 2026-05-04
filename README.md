@@ -101,7 +101,7 @@ Fact table loaded with foreign key relationships
 📸 Dashboard Preview
 
 ### Sales & Profit Overview
-![Sales Dashboard](assets/dashboard1.png)
+![Sales Dashboard](/dashboard1.jpg)
 
 📈 Future Improvements
 

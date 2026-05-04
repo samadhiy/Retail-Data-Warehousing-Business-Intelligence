@@ -1,0 +1,23 @@
+CREATE TABLE Superstore (
+    RowID INT,
+    OrderID VARCHAR(20),
+    OrderDate DATE,
+    ShipDate DATE,
+    ShipMode VARCHAR(20),
+    CustomerID VARCHAR(10),
+    CustomerName VARCHAR(50),
+    Segment VARCHAR(20),
+    Country VARCHAR(50),
+    City VARCHAR(50),
+    State VARCHAR(50),
+    PostalCode VARCHAR(10),
+    Region VARCHAR(10),
+    ProductID VARCHAR(20),
+    Category VARCHAR(50),
+    SubCategory VARCHAR(50),
+    ProductName VARCHAR(255),
+    Sales DECIMAL(10,2),
+    Quantity INT,
+    Discount DECIMAL(5,2),
+    Profit DECIMAL(10,2)
+);
